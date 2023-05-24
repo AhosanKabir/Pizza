@@ -1,0 +1,645 @@
+/* Big screen :1200px. */
+@media (min-width: 1200px) and (max-width: 1440px) {
+  .container {
+    max-width: 1140px;
+    width: 100%;
+    border: 1px solid blue;
+  }
+
+  /* hero  */
+  .hero_element_title {
+    font-size: 68px;
+  }
+
+  .hero_btn {
+    font-size: 36px;
+  }
+
+  .hero_element_span {
+    font-size: 50px;
+  }
+
+  .hero_content_passage {
+    max-width: 480px;
+    font-size: 20px;
+  }
+
+  .hero_element_button {
+    max-width: 490px;
+  }
+
+  .pick_pizza_price h2 {
+    font-size: 85px;
+  }
+  .pick_pizza_price h2 span {
+    font-size: 49px;
+    margin-left: 15px;
+  }
+
+  .pick_pizza_elements {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+  .pick_pizza_contents h2 {
+    font-size: 80px;
+    margin-top: 30px;
+  }
+
+  .pick_pizza_contents p {
+    font-size: 32px;
+  }
+
+  .orderNow_btn {
+    font-size: 32px;
+  }
+
+  .hire_left_content {
+    padding-left: 38px;
+  }
+
+  .hire_left_content h2 {
+    font-size: 56px;
+    margin-top: 8px;
+  }
+
+  .hire_right_content .applyNow_btn {
+    font-size: 32px;
+    display: inline-block;
+  }
+
+  .single_hire_item p {
+    font-size: 46px;
+  }
+
+  .single_hire_item img {
+    max-width: 60px;
+  }
+  .hire_left_content img {
+    position: absolute;
+    top: 102px;
+    left: 42%;
+    max-width: 334px;
+    width: 100%;
+  }
+
+  .feed_price h2 {
+    font-size: 78px;
+  }
+
+  .feed_contents h2 {
+    font-size: 80px;
+  }
+
+  .feed_contents p {
+    font-size: 32px;
+    line-height: 38px;
+  }
+
+  .rewards_title {
+    font-size: 84px;
+  }
+
+  .signUp_btn {
+    font-size: 36px;
+  }
+
+  .rewards_single_card h3 {
+    font-size: 32px;
+  }
+
+  .rewards_single_card {
+    padding: 22px;
+  }
+
+  .bogo_section {
+    padding-top: 23px;
+    padding-bottom: 56px;
+  }
+  .bogo_elements .bogo_size {
+    font-size: 52px;
+  }
+
+  .bogo_elements .bogo_title {
+    font-size: 78px;
+  }
+
+  /* footer  */
+  .footer_logo {
+    max-width: 230px;
+  }
+
+  .footer_single_links h3 {
+    font-size: 18px;
+  }
+}
+/* ==================================================================== */
+
+/* Normal screen :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+  .container {
+    padding: 0 20px;
+  }
+
+  /* hero  */
+  .hero_element_title {
+    font-size: 68px;
+  }
+
+  .hero_btn {
+    font-size: 36px;
+  }
+
+  .hero_element_span {
+    font-size: 50px;
+  }
+
+  .hero_content_passage {
+    max-width: 480px;
+    font-size: 20px;
+  }
+
+  .hero_element_button {
+    max-width: 490px;
+  }
+
+  .pick_pizza_price h2 {
+    font-size: 75px;
+  }
+  .pick_pizza_price h2 span {
+    font-size: 45px;
+    margin-left: 15px;
+  }
+
+  .pick_pizza_elements {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+  .pick_pizza_contents h2 {
+    font-size: 64px;
+    margin-top: 30px;
+  }
+
+  .pick_pizza_contents p {
+    font-size: 28px;
+  }
+  .pick_pizza_price {
+    padding-left: 0;
+  }
+
+  .orderNow_btn {
+    font-size: 28px;
+  }
+
+  .hire_left_content {
+    padding-left: 0;
+  }
+
+  .hire_left_content h2 {
+    font-size: 56px;
+    margin-top: 8px;
+  }
+
+  .hire_right_content .applyNow_btn {
+    font-size: 28px;
+    display: inline-block;
+  }
+
+  .single_hire_item p {
+    font-size: 34px;
+  }
+
+  .single_hire_item img {
+    max-width: 50px;
+  }
+  .hire_left_content img {
+    position: absolute;
+    top: 102px;
+    left: 35%;
+    max-width: 334px;
+    width: 100%;
+  }
+
+  .feed_price h2 {
+    font-size: 65px;
+  }
+
+  .feed_contents h2 {
+    position: relative;
+    font-size: 64px;
+    line-height: 55px;
+    z-index: 1;
+  }
+
+  .feed_contents p {
+    font-size: 28px;
+    line-height: 38px;
+  }
+
+  .rewards_title {
+    font-size: 64px;
+  }
+
+  .signUp_btn {
+    font-size: 28px;
+  }
+
+  .rewards_single_card h3 {
+    font-size: 32px;
+  }
+
+  .rewards_single_card {
+    padding: 22px;
+  }
+
+  .bogo_section {
+    padding-top: 23px;
+    padding-bottom: 56px;
+  }
+  .bogo_elements .bogo_size {
+    font-size: 45px;
+    max-width: 375px;
+    margin-bottom: 0;
+    position: relative;
+    z-index: 1;
+  }
+
+
+
+  .bogo_elements .bogo_title {
+    font-size: 68px;
+  }
+
+  /* footer  */
+  .footer_logo {
+    max-width: 230px;
+  }
+
+  .footer_single_links h3 {
+    font-size: 18px;
+  }
+}
+
+/* Tablet screen :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+  .container {
+    max-width: 720px;
+  }
+  .hero_element_title{
+    font-size: 45px;
+  }
+  .hero_element_span {
+    font-size: 32px;
+  }
+  .hero_content_passage {
+    max-width: 300px;
+    font-size: 16px;
+  }
+  .hero_element_button{
+    text-align: center;
+  }
+  .hero_btn{
+    display: inline-block;
+    width: unset;
+    font-size: 22px;
+    padding: 10px 22px;
+    text-align: center;
+  }
+  .pick_pizza_elements{
+    padding: 40px 0;
+    flex-direction: column;
+    align-items: start;
+  }
+
+  .pick_pizza_price{
+    padding-left: 0;
+  }
+
+  .pick_pizza_price h2 {
+    margin-bottom: 29px;
+    font-size: 60px;
+  }
+
+  .pick_pizza_price h2 span{
+    font-size: 38px;
+    margin-left: 11px;
+  }
+  .pick_pizza_contents h2 {
+    font-size: 62px;
+  }
+  .pick_pizza_contents p{
+    font-size: 28px;
+  }
+  .orderNow_btn{
+    margin-left: 0;
+    font-size: 22px;
+  }
+  .hire_left_content{
+    padding-left: 0;
+    padding-top: 0;
+    text-align: center;
+  }
+  .hire_right_content .applyNow_btn{
+    width: max-content;
+    margin: 0 auto;
+    font-size: 20px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+  }
+
+  .single_hire_item{
+    padding-left: 120px;
+    margin-bottom: 16px;
+  }
+
+  .hire_left_content img{
+    rotate: 71deg;
+    left: 26px;
+    top: 145px;
+    max-width: 146px;
+  }
+
+  .single_hire_item p{
+    font-size: 30px;
+  }
+  .single_hire_item img {
+    max-width: 35px;
+  }
+
+  .feed_elements{
+    padding: 40px 0;
+    flex-direction: column;
+    align-items: start;
+  }
+
+  .feed_price{
+    padding-left: 0;
+  }
+
+  .feed_price h2{
+    font-size: 48px;
+    margin-bottom: 18px;
+  }
+  .feed_contents h2 {
+    font-size: 55px;
+    line-height: 50px;
+  }
+  .feed_contents p {
+    font-size: 28px;
+    line-height: 32px;
+  }
+
+  .rewards_title {
+    font-size: 60px;
+  }
+  .rewards_single_card{
+
+  }
+
+  .signUp_btn {
+    font-size: 28px;
+  }
+
+  .bogo_elements {
+    position: relative;
+    z-index: 1;
+  }
+  .bogo_elements .bogo_title{
+    font-size: 60px;
+  }
+  .bogo_elements .bogo_size{
+    max-width: 320px;
+    font-size: 23px;
+    line-height: 24px;
+    margin-bottom: 0;
+  }
+
+  .footer_logo_elements{
+    text-align: center;
+  }
+
+  .footer_social_icons{
+    justify-content: center;
+    margin-bottom: 30px;
+  }
+  .play_element{
+    text-align: center;
+    margin-top: 30px;
+  }
+  /* .footer_single_links{
+    margin: 30px 0;
+  } */
+
+  .footer_padding{
+    padding: 40px 0;
+  }
+
+  .play_store{
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 15px;
+  }
+
+  .header-area{
+    padding-right: 30px;
+    padding-left: 30px;
+  }
+}
+
+/* ================================================================ */
+
+/* small screen :320px. */
+@media (max-width: 767px) {
+    .header-area{
+        padding: 20px 0;
+    }
+    .horo_element{
+        padding-left: 0;
+    }
+    .hero_element_title{
+        font-size: 32px;
+        margin-top: 40px;
+    }
+    .hero_element_span{
+        font-size: 33px;
+    }
+    .hero_content_passage{
+        width: 100%;
+        font-size: 16px;
+        padding: 0 20px;
+        margin: 30px 0;
+    }
+
+    .hero_element_button{
+        text-align: center;
+    }
+
+    .hero_btn{
+        font-size: 18px;
+        display: inline-block;
+        width: max-content;
+        border-radius: 8px;
+        padding: 11px 40px;
+        margin-bottom: 40px;
+    }
+
+    .pick_pizza_thumb{
+        display: none;
+    }
+
+    .pick_pizza_elements{
+        flex-direction: column;
+        text-align: center;
+        padding: 60px 0;
+    }
+    .pick_pizza_price h2 {
+        margin-bottom: 29px;
+        font-size: 60px;
+      }
+    
+    .pick_pizza_price h2 span{
+    font-size: 38px;
+    margin-left: 11px;
+    }
+
+    .pick_pizza_contents h2{
+        font-size: 46px;
+    }
+
+    .pick_pizza_contents p{
+        font-size: 18px;
+    }
+    .orderNow_btn{
+        margin-left: 0;
+        font-size: 18px;
+        padding: 11px 41px;
+    }
+    .hire_section{
+        padding: 40px 0;
+    }
+    .hire_left_content{
+        padding-left: 0;
+        padding-top: 0;
+    }
+    .hire_left_content h2{
+        font-size: 40px;
+        text-align: center;
+    }
+    .hire_right_content .applyNow_btn{
+        font-size: 18px;
+        margin-top: 30px;
+        padding: 14px 22px;
+    }
+
+    .hire_left_content img{
+        rotate: 139deg;
+        top: 37px;
+        left: -16px;
+        max-width: 110px;
+    }
+    .single_hire_item p {
+        font-size: 22px;
+        margin-top: 5px;
+    }
+    .single_hire_item{
+        margin-bottom: 10px;
+        padding-left: 50px;
+    }
+    .single_hire_item img{
+        max-width: 30px;
+    }
+
+    .feed_thumb{
+        display: none;
+    }
+    .feed_elements{
+        padding: 40px 0;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+      }
+    
+      .feed_price{
+        padding-left: 0;
+      }
+    
+      .feed_price h2{
+        font-size: 48px;
+        margin-bottom: 18px;
+      }
+      .feed_contents h2 {
+        font-size: 36px;
+        line-height: 34px;
+    }
+      
+    .feed_contents p {
+        font-size: 20px;
+        line-height: 24px;
+        text-align: left;
+    }
+    .rewards_title{
+        font-size: 38px;
+    }
+    .rewards_single_card h3{
+        font-size: 28px;
+    }
+    .rewards_single_card p{
+        font-size: 16px;
+    }
+    .signUp_btn {
+        font-size: 18px;
+    }
+
+    .bogo_thumb_right {
+        display: none;
+    }
+    .bogo_thumb_left{
+        display: none;
+    }
+    .bogo_elements .bogo_title{
+        font-size: 32px;
+    }
+    .bogo_elements .bogo_size{
+        font-size: 22px;
+        line-height: 1;
+        margin-bottom: 0;
+    }
+
+    /* footer  */
+    .footer_padding{
+        padding: 60px 0;
+    }
+    .footer_logo_elements{
+        text-align: center;
+    }
+
+    .footer_social_icons{
+        justify-content: center;
+        margin-bottom: 30px;
+    }
+
+    .footer_single_links h3 {
+        margin-bottom: 18px;
+    }
+
+    .footer_single_links ul li a {
+        margin-bottom: 10px;
+    }
+    .footer_single_links{
+        margin-bottom: 30px;
+    }
+    .play_element{
+        margin-bottom: 0;
+    }
+
+}
+
+/* Large Mobile screen :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  .container {
+    width: 450px;
+  }
+}
